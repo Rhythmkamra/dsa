@@ -29,4 +29,5 @@ int main(){
         cout<<"value of the"<<" "<<i+1<<" "<<"element is"<<" "<<crr[i];
         cout<<endl;}
     return 0;
+    
 }
