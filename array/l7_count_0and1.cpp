@@ -9,7 +9,7 @@ void count(int arr[],int size){
             c_zero+=1;
            
         }
-        if( arr[i]==1){
+         else if( arr[i]==1){
             c_one+=1;
             
         }
