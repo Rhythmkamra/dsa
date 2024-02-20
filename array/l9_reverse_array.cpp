@@ -17,11 +17,12 @@ void rev(int arr[],int size){
     
 
 int main(){
-    int array[3]={1,2,3};
-    int size=3;
+    int array[4]={1,2,3,4};
+    int size=4;
     rev(array,size);
     for (int i=0;i<size;i++){
         cout<<array[i]<<endl;
     }
 
 }
+// note look for the inbuilt swap function in the video
