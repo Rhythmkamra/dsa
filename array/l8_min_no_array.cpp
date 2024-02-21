@@ -16,3 +16,6 @@ int main(){
     int n=5;
     min_no(array,n);
 }
+// for min integer compare with INT_MAX in the limits.h
+// for max integer compare with INT_MIN 
+// these are ranges for the signed integer
