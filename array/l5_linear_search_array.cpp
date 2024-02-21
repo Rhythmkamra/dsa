@@ -5,7 +5,7 @@ int main(){
     for(int i=0;i<5;i++){
         if (arr[i]==5){
             cout<<"element found"<<endl;
-            break;
+            break;w
         }
         
         else{
